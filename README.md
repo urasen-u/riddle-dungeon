@@ -31,7 +31,11 @@ ScriptableObjectを用いてクイズを管理することで後からクイズ�
 成功しました。また、被弾時と攻撃時にはダメージ量に応じたボイスも再生され、戦闘の迫力を向上させています。
 
 ↓他のプロジェクトはこちら↓
+
 https://github.com/urasen-u/tipshot
 
+https://github.com/urasen-u/primenum-shoot
+
 ↓unityroomのリンク↓
+
 https://unityroom.com/games/quizadventure
