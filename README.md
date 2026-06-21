@@ -30,5 +30,8 @@ ScriptableObjectを用いてクイズを管理することで後からクイズ�
 攻撃時には敵の点滅とランダムなエフェクトが発生し、敵の撃破時には撃破時用の演出が発生し、戦闘の見栄えを豪華にすることに
 成功しました。また、被弾時と攻撃時にはダメージ量に応じたボイスも再生され、戦闘の迫力を向上させています。
 
+↓他のプロジェクトはこちら↓
+https://github.com/urasen-u/tipshot
+
 ↓unityroomのリンク↓
 https://unityroom.com/games/quizadventure
